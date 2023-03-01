@@ -16,3 +16,6 @@ jobs:
       - name: Show date
         run: |
           date
+      - name: Show dir content
+        run: |
+          ls
